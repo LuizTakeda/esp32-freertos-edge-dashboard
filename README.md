@@ -31,6 +31,8 @@ The wiring and electronic components can be reviewed in the following schematic:
 
 <img width="1920" alt="Hardware Schematic" src="/hardware/ESP32 FreeRTOS Edge Dashboard Schema.svg" />
 
+<img width="1920" alt="Hardware Schematic" src="https://github.com/user-attachments/assets/cd5e0863-8ba5-4f63-b93b-11b763d8a582" />
+
 ## Architecture
 
 The system utilizes an **Event-Driven Architecture (EDA)** to maximize responsiveness and minimize resource consumption.
@@ -122,3 +124,4 @@ Visualize ADC values and sensor data through dynamic charts.
 The system is designed to handle multiple concurrent clients using SSE broadcasting.
 
 <img width="1920" alt="Analog Input Dashboard" src="https://github.com/user-attachments/assets/94fded25-5059-4fc1-a0be-00b0b86bcaae" />
+
