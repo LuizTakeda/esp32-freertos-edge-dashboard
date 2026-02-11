@@ -111,7 +111,11 @@ Once the device is flashed, monitor the serial output to find the assigned IP ad
 
 Monitor button states and control digital outputs in real-time. 
 
-<img width="1920" alt="Digital Input Dashboard" src="https://github.com/user-attachments/assets/9e0e7447-379c-4b75-963f-592c2925e2e3" />
+<video src="https://github.com/user-attachments/assets/47d56d9a-5213-448e-a3d6-8f0649e0f05e" width="1920" controls autoplay loop muted>
+  Seu navegador não suporta o player de vídeo.
+</video>
+
+
 
 ### Analog Monitoring
 
@@ -124,4 +128,5 @@ Visualize ADC values and sensor data through dynamic charts.
 The system is designed to handle multiple concurrent clients using SSE broadcasting.
 
 <img width="1920" alt="Analog Input Dashboard" src="https://github.com/user-attachments/assets/94fded25-5059-4fc1-a0be-00b0b86bcaae" />
+
 
