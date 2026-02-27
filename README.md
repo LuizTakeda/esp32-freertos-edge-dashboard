@@ -115,18 +115,19 @@ Monitor button states and control digital outputs in real-time.
   Seu navegador não suporta o player de vídeo.
 </video>
 
-
-
 ### Analog Monitoring
 
 Visualize ADC values and sensor data through dynamic charts. 
 
-<img width="1920" alt="Analog Input Dashboard" src="https://github.com/user-attachments/assets/94fded25-5059-4fc1-a0be-00b0b86bcaae" />
+<video src="https://github.com/user-attachments/assets/3d577dcc-697d-4be2-95b6-907c89a5eee1" width="1920" controls autoplay loop muted>
+  Seu navegador não suporta o player de vídeo.
+</video>
 
 ### Multiple clients
 
 The system is designed to handle multiple concurrent clients using SSE broadcasting.
 
-<img width="1920" alt="Analog Input Dashboard" src="https://github.com/user-attachments/assets/94fded25-5059-4fc1-a0be-00b0b86bcaae" />
-
+<video src="https://github.com/user-attachments/assets/cae8d238-0078-4538-bad6-0ad11391321e" width="1920" controls autoplay loop muted>
+  Seu navegador não suporta o player de vídeo.
+</video>
 
