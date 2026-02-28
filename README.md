@@ -1,4 +1,4 @@
-# FreeRTOS + ESP32: Embedded Systems Programming
+# Real-Time Edge Dashboard: Multi-tasking with ESP32 & FreeRTOS
 
 This repository contains the source code for an academic extension project on embedded systems using **FreeRTOS** and **ESP32**.
 
@@ -130,4 +130,5 @@ The system is designed to handle multiple concurrent clients using SSE broadcast
 <video src="https://github.com/user-attachments/assets/cae8d238-0078-4538-bad6-0ad11391321e" width="1920" controls autoplay loop muted>
   Seu navegador não suporta o player de vídeo.
 </video>
+
 
