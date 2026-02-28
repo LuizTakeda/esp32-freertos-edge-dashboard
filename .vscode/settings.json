@@ -35,5 +35,6 @@
     "cjson.h": "c",
     "digital_input.h": "c",
     "freertos.h": "c"
-  }
+  },
+  "idf.currentSetup": "C:\\Users\\umota\\esp\\v5.4\\esp-idf"
 }

@@ -13,10 +13,10 @@ static const char TAG[] = "digital_output";
  * @brief Map logical output IDs to physical GPIO numbers
  */
 static const uint32_t s_output_pins[_DIGITAL_OUTPUT_NUM_MAX] = {
-    GPIO_NUM_13,
     GPIO_NUM_19,
     GPIO_NUM_21,
-    GPIO_NUM_18};
+    GPIO_NUM_22,
+    GPIO_NUM_23};
 
 //**************************************************
 // Public Functions

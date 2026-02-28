@@ -41,7 +41,7 @@ static adc_oneshot_unit_handle_t s_adc1_handler;    /**< Handle for the ADC unit
 /**
  * @brief Maps logical input IDs to physical ADC channels.
  */
-static const uint16_t s_analog_input_num_map[] = {ADC_CHANNEL_6, ADC_CHANNEL_7};
+static const uint16_t s_analog_input_num_map[] = {ADC_CHANNEL_5, ADC_CHANNEL_4};
 
 //**************************************************
 // Public Functions
