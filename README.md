@@ -109,7 +109,7 @@ Once the device is flashed, monitor the serial output to find the assigned IP ad
 
 Monitor button states and control digital outputs in real-time. 
 
-<video src="https://github.com/user-attachments/assets/47d56d9a-5213-448e-a3d6-8f0649e0f05e" width="1920" controls autoplay loop muted>
+<video src="https://github.com/user-attachments/assets/0901eba5-ffde-42c3-a684-b5d44f5602e8" width="1920" controls autoplay loop muted>
   Seu navegador não suporta o player de vídeo.
 </video>
 
@@ -117,7 +117,7 @@ Monitor button states and control digital outputs in real-time.
 
 Visualize ADC values and sensor data through dynamic charts. 
 
-<video src="https://github.com/user-attachments/assets/3d577dcc-697d-4be2-95b6-907c89a5eee1" width="1920" controls autoplay loop muted>
+<video src="https://github.com/user-attachments/assets/65cf340d-8389-485f-a60b-d8aeeac0267f" width="1920" controls autoplay loop muted>
   Seu navegador não suporta o player de vídeo.
 </video>
 
@@ -125,8 +125,6 @@ Visualize ADC values and sensor data through dynamic charts.
 
 The system is designed to handle multiple concurrent clients using SSE broadcasting.
 
-<video src="https://github.com/user-attachments/assets/cae8d238-0078-4538-bad6-0ad11391321e" width="1920" controls autoplay loop muted>
+<video src="https://github.com/user-attachments/assets/57e1a9f4-2b59-473d-9eea-39d880479847" width="1920" controls autoplay loop muted>
   Seu navegador não suporta o player de vídeo.
 </video>
-
-
