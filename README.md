@@ -4,8 +4,6 @@ This repository contains the source code for an academic extension project on em
 
 The project demonstrates core RTOS concepts such as multitasking, real-time scheduling, and inter-task communication. The final output is a web dashboard hosted directly on the ESP32, enabling real-time monitoring and control through an asynchronous architecture.
 
-Part of [*The Parallel Computing School: Short Courses and Tutorials*](https://github.com/rogerioag/ecp-minicursos).
-
 ## Tech Stack
 
 **Firmware:**  
