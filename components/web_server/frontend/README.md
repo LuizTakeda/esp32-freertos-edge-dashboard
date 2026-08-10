@@ -182,6 +182,6 @@ Below are some screenshots demonstrating the dashboard running on both desktop a
 
 ### Mobile  
 
-<img width="300" height="822" alt="Captura de tela 2026-03-02 150534" src="https://github.com/user-attachments/assets/6533ce32-70fe-4a0e-83ff-fba97b3de3e0" />
-<img width="300" height="822" alt="Captura de tela 2026-03-02 150539" src="https://github.com/user-attachments/assets/514ac0fe-d098-468c-bc0d-361ff8a73c15" />
-<img width="300" height="822" alt="Captura de tela 2026-03-02 150547" src="https://github.com/user-attachments/assets/740ae5f6-d068-4bcb-beda-f89c10da91f3" />
+<img width="300" alt="Captura de tela 2026-03-02 150534" src="https://github.com/user-attachments/assets/6533ce32-70fe-4a0e-83ff-fba97b3de3e0" />
+<img width="300" alt="Captura de tela 2026-03-02 150539" src="https://github.com/user-attachments/assets/514ac0fe-d098-468c-bc0d-361ff8a73c15" />
+<img width="300" alt="Captura de tela 2026-03-02 150547" src="https://github.com/user-attachments/assets/740ae5f6-d068-4bcb-beda-f89c10da91f3" />
